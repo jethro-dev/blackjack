@@ -5,7 +5,7 @@ body {
 
 body {
     margin: 0;
-    background-image: url("../blackjack/img/table.png");
+    background-image: url("/blackjack/img/table.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
