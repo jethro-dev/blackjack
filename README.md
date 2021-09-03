@@ -1,10 +1,14 @@
 # Blackjack Web Application
+## Welcome! 👋
 This is a blackjack web application build with HTML, CSS and mainly Javascript.
 
-## Screenshot
+## Build with ⚙️
+This project is built with HTML, CSS and JavaScript.
+
+## Screenshot 📷
 ![](img/screenshot1.png)
 
-## Link
+## Link 🔗
 [Click me to play!](https://obiito01.github.io/blackjack/)
 
 
